@@ -17,7 +17,7 @@ Simplified to:
 1. O(n)
 2. O(n)
 3. O(1)
-4. O(n)
+4. O(n3)
 5. O(n)
 6. O(logn)
 7. O(logn)

@@ -1,6 +1,6 @@
 Calculate Time Complexity
 
-1.
+1. O(n)
 
 function logUpTo(n) {
   for (let i = 1; i <= n; i++) {
@@ -8,7 +8,7 @@ function logUpTo(n) {
   }
 }
 
-2.
+2. O(n)
 
 function logAtLeast10(n) {
   for (let i = 1; i <= Math.max(n, 10); i++) {
@@ -16,7 +16,7 @@ function logAtLeast10(n) {
   }
 }
 
-3.
+3. O(n)
 
 
 function logAtMost10(n) {
@@ -25,7 +25,7 @@ function logAtMost10(n) {
   }
 }
 
-4.
+4. O(1)
 
 function onlyElementsAtEvenIndex(array) {
   let newArray = [];
@@ -38,7 +38,7 @@ function onlyElementsAtEvenIndex(array) {
 }
 
 
-5.
+5. O(n)
 
 function subtotals(array) {
   let subtotalArray = [];
@@ -52,7 +52,7 @@ function subtotals(array) {
   return subtotalArray;
 }
 
-6.
+6. O(1)
 
 
 function vowelCount(str) {
